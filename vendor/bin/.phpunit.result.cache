@@ -1,0 +1,1 @@
+{"version":1,"defects":{"tests\\UserTest::testeDepositar":3},"times":{"tests\\UserTest::testeDepositar":0.028,"tests\\UserTest::testeSacarSaldoInsufciente":0.001,"tests\\UserTest::test_do_valor_da_Transferir":0}}

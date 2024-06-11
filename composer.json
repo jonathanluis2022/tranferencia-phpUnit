@@ -1,0 +1,23 @@
+{
+    "name": "user/conta-bb",
+    "type": "yes",
+    "autoload": {
+        "psr-4": {
+            "src\\": "src/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "tests\\": "tests/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Jonathan",
+            "email": "jonathan.luisrodrigues@hotmail.com"
+        }
+    ],
+    "require-dev": {
+        "phpunit/phpunit": "^9.6"
+    }
+}
